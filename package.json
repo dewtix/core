@@ -9,7 +9,7 @@
   "license": "ISC",
   "author": {
     "name": "Kate",
-    "email": "admin@dewtix.com"
+    "email": "kateadmin@dewtix.com"
   },
   "peerDependencies": {
     "prettier": "^3.0.0"
